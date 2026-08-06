@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Arup Maity
+  # 💫 Hi 👋, I'm Arup Maity
 **A passionate Problem Solver || backend Developer from India**
 
 Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or An
 
 <div align="left">
 
-  <a href=".   https://leetcode.com/u/Arup-0000 " target="blank">
+  <a href=".   https://leetcode.com/Arup-0000 " target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="leetcode logo" />
   </a>
 
