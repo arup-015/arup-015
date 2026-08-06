@@ -19,17 +19,6 @@ Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or An
 
 <div align="left">
 
-  <a href=".   https://leetcode.com/Arup-0000 " target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="leetcode logo" />
-  </a>
-
-  <img width="10" />
-  <h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
   </a>
