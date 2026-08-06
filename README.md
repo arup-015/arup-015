@@ -1,11 +1,11 @@
   # 💫 Hi 👋, I'm Arup Maity
 **A passionate Problem Solver || backend Developer from India**
 
-Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+ 📫 Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Java+Spring Boot
 - 🌱 **I’m currently learning:** Data structure & Algorithms
-- 📫 **How to reach me:** arupmaity0015@gmail.com
+
 
 
 ## 🌐 Socials:
