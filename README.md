@@ -6,7 +6,7 @@
 
  📫 Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Java+Spring Boot
+- 🔭 **I’m currently working on:** Java+Spring Boot Applications
 - 🌱 **I’m currently learning:** Data structure & Algorithms
 
 
