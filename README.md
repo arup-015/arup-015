@@ -2,7 +2,7 @@
 **A passionate Problem Solver || backend Developer from India**
 
 
-  📍 Barrackpore , North 24 pargonas
+  📍 Barrackpore , North 24 pargonas,West Bengal
 
  📫 Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
