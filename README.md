@@ -1,6 +1,6 @@
-  # 💫 Hi 👋, I'm Arup Maity
-**A passionate Problem Solver || backend Developer from India**
+  # 💫 Hi 👋, I'm Arup Maity<p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=arup-015&label=Profile%20views&color=ff6b6b&style=plastic" alt="arup-015" /></span> </p>
 
+**A passionate Problem Solver || backend Developer from India**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
   📍 Barrackpore , North 24 pargonas,West Bengal
 
@@ -8,6 +8,10 @@
 
 - 🔭 **I’m currently working on:** Java+Spring Boot Applications
 - 🌱 **I’m currently learning:** Data structure & Algorithms
+
+
+
+
 
 
 
