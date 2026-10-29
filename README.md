@@ -6,12 +6,26 @@
 
  📫 Email Me 👉 ✉️ **arupmaity0015@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
- 
-     leetcode ID 👉 https://leetcode.com/u/Arup-015/
 
 - 🔭 **I’m currently working on:** Java+Spring Boot Applications
 - 🌱 **I’m currently learning:** Data structure & Algorithms
+## 🎓 Education
 
+**Name:** Arup Maity
+
+**University:** Swami Vivekananda University
+
+**Degree:** Bachelor of Computer Applications (BCA Honours)
+
+**Academic Session:** 2023–2027
+
+## 🏆 LeetCode Profile
+
+**Arup Maity | Swami Vivekananda University | LeetCode**
+
+💻 Java Backend Developer | DSA Problem Solver
+
+🔗 [Visit My LeetCode Profile](https://leetcode.com/u/Arup-015/)
 
 
 
